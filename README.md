@@ -1,9 +1,4 @@
-## Hi there 👋
 
-
-**weijia99/weijia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 你好，我是 Weijia! 👋
 
 ### 关于我
